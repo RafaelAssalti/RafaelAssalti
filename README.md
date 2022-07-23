@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Science
-- 📫 How to reach me https://www.linkedin.com/in/rafael-assalti-015ba9a9/
+- 📫 How to reach me https://www.linkedin.com/in/rafael-assalti
 
 <!---
 RafaelAssalti/RafaelAssalti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
